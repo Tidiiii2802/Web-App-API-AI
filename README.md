@@ -1,10 +1,8 @@
 
-# ThanhDanh — Cloud Engineer
-
-Tôi là lập trình viên tập trung vào phát triển cơ sở hạ tầng đám mây và trung tâm dữ liệu. Đam mê tối ưu hiệu năng, viết mã sạch và học hỏi công nghệ mới.
+# ThanhDanh — AI Sercurity Engineer
 
 ## Kỹ năng
-- **Ngôn ngữ:** C++, Python, C , PHP, C#
+- **Ngôn ngữ:** C++, Python, C , PHP, C#, Java
 - **Tools:** Docker, Git, Linux, AWS
 
 ## Dự án tiêu biểu
